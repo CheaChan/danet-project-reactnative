@@ -38,8 +38,8 @@ export default function ProductListScreen({ navigation }) {
       backgroundColor: '#ff8080',
       paddingTop: 15,
       paddingBottom: 15,
-      paddingStart:30,
-      paddingEnd: 30,
+      paddingStart:35,
+      paddingEnd: 35,
       marginVertical: 5,
       fontSize:18,
     }
